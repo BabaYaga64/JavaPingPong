@@ -18,6 +18,7 @@ This is a version of the FizzBuzz program, where the user enters a number, and a
 1. Clone repository from GitHub.
 2. Make sure that you have Java REPL (compiler) installed on your machine.
 3. Open your command line prompt, open your Java REPL shell, and type the following commands:
+
     
     ```
     javac PingPong.java && java PingPong
